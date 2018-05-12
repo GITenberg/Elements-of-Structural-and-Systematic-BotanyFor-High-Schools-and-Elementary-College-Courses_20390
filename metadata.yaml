@@ -1,0 +1,30 @@
+_repo: Elements-of-Structural-and-Systematic-BotanyFor-High-Schools-and-Elementary-College-Courses_20390
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, Douglas Houghton
+    birthdate: 1859
+    deathdate: 1953
+    gutenberg_agent_id: '9270'
+    url: http://www.gutenberg.org/2009/agents/9270
+description: ''
+gutenberg_bookshelf: Botany
+gutenberg_issued: '2007-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20390'
+  lccn: '04030245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Botany -- Textbooks'
+- !lcc 'QK'
+title: 'Elements of Structural and Systematic Botany
+
+  For High Schools and Elementary College Courses'
+url: http://www.gutenberg.org/ebooks/20390
